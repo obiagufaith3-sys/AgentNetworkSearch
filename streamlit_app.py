@@ -16,11 +16,12 @@ from network_logic import create_network, visualize
 # ── Page config ──────────────────────────────────────────────────────────────
 st.set_page_config(
     page_title="Multi-Agent Network Search",
+    page_icon="🔍",
     layout="wide"
 )
 
 # ── Title ─────────────────────────────────────────────────────────────────────
-st.title("🔍 Multi-Agent Network Search Simulation")
+st.title("Multi-Agent Network Search Simulation")
 st.caption("Artificial Intelligence Project — Agent Communication for Searching a Network")
 st.divider()
 
