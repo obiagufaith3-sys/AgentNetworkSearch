@@ -16,7 +16,6 @@ from network_logic import create_network, visualize
 # ── Page config ──────────────────────────────────────────────────────────────
 st.set_page_config(
     page_title="Multi-Agent Network Search",
-    page_icon="🔍",
     layout="wide"
 )
 
