@@ -27,7 +27,7 @@ To run this project on your machine:
    ```
    pip install streamlit networkx matplotlib
    ```
-4. **Run the application:
+4. **Run the application:**
  ```
 streamlit run streamlit_app.py
 ```
